@@ -7,7 +7,39 @@ Appli de rencontre
      <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style .css">
+<styles>
+  p {
+  text-align: center;
+  color: whitesmoke;
+  font-family: courier new;
+  font-style: italic;
+  font-size: 20px;
+  background-color: navajowhite;
+  border-radius:  10px;
+  
+}
+h1 {
+  color: whitesmoke; 
+  font-family: courier new;
+  font-style: italic;
+  font-size: 40px;
+  background-color: navajowhite;
+  border-radius: 10px
+  text-align: center;
+}
+body {
+  background-color: lavenderblush;
+}
 
+.idid {
+  color: whitesmoke; 
+  font-family: courier new;
+  font-style: italic;
+  background-color: navajowhite;
+  border-radius: 10px;
+  text-align: center;
+}  
+</styles>
 </head>
 <body>
     <h1>SOIRÉE MIMI</h1>
